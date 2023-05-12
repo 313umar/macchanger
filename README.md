@@ -13,8 +13,7 @@ With the use of macchanger, you can alter your MAC address and achieve a greater
  - cd macchanger
  - sudo bash install.sh
  
- # Usage-
- 
+ * Usage-
  - bash macchanger.sh
 
 your MAC address will remain changed until you manually revert it back to its original value or until you restart your device. Once you restart your device, the MAC address will reset to the original value assigned to your network interface controller by the manufacturer.
