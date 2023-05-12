@@ -28,7 +28,7 @@ This script has been tested on Ubuntu 18.04 and may work on other Linux distribu
 
 [~] Find Me on :
 	[![Github]  -https://github.com/313umar
-	[![Gmail]   -mailto:umar001480@gmail.com
+	[![Gmail]   -umar001480@gmail.com
 	[![LinkedIn]-https://www.linkedin.com/in/srchowdhury313
 	
 
