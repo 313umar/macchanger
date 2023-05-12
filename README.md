@@ -1,5 +1,5 @@
 # macchanger
-nique identifier assigned to a network interface controller (NIC). It can be used to track network activity and potentially identify users.
+A MAC address is a unique identifier assigned to a network interface controller (NIC). It can be used to track network activity and potentially identify users.
 One can change their MAC address to a random or anonymized value as a means of protecting their privacy. Changing your MAC address can also bypass network restrictions.
 While changing your MAC address can be essential for maintaining privacy, it's important to recognize that it may not provide absolute anonymity.
 
